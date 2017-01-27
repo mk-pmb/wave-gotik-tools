@@ -1,0 +1,30 @@
+{ "name": "wave-gotik-tools",
+  "version": "0.0.1",
+  "description": "Weil mir die Daten gefallen, ihre Verpackung aber nicht.",
+  "keywords": [
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/wave-gotik-tools#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/wave-gotik-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/wave-gotik-tools/issues"
+  },
+
+  "private": true, "license": "ISC",
+
+  "main": "website-fixes/apply_all.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {
+    "equal-pmb": "^0.1.0"
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
